@@ -1,21 +1,57 @@
-# HR Attrition Prediction
+# 🧠 HR Attrition Prediction using Machine Learning
 
-This project predicts employee attrition using Machine Learning.
+## 📌 Project Overview
+This project predicts employee attrition using supervised machine learning techniques on the IBM HR Analytics dataset.
 
-## Project Overview
-- Dataset: IBM HR Employee Attrition
-- Algorithms Used: Logistic Regression
-- Techniques: Data Preprocessing, Encoding, Scaling, Model Evaluation
+The objective is to identify key factors contributing to employee turnover and build a predictive model to help organizations reduce attrition risk.
 
-## Project Files
-- HR_Attrition_Prediction.ipynb → Complete ML pipeline
-- WA_Fn-UseC_-HR-Employee-Attrition.csv → Dataset
+---
 
-## Results
-- Accuracy: (Add your model accuracy here)
+## 📊 Dataset
+- Source: IBM HR Employee Attrition Dataset
+- Total Records: 1470 employees
+- Target Variable: Attrition (Yes/No)
+
+---
+
+## ⚙️ Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib & Seaborn
+- Scikit-learn
+
+---
+
+## 🛠 Machine Learning Pipeline
+1. Data Cleaning
+2. Label Encoding
+3. Feature Scaling
+4. Train-Test Split
+5. Logistic Regression Model
+6. Model Evaluation
+
+---
+
+## 📈 Model Performance
+- Accuracy: XX%  ← (Replace this with your actual accuracy)
 - Classification Report included
 
-## Future Improvements
+---
+
+## 🔍 Key Insights
+- Overtime significantly impacts attrition
+- Job satisfaction strongly correlates with retention
+- Lower salary bands show higher attrition probability
+
+---
+
+## 🚀 Future Improvements
 - Hyperparameter tuning
-- Deploy as Streamlit app
+- Try Random Forest / XGBoost
+- Deploy as Streamlit Web App
 - Feature importance visualization
+
+---
+
+## 📂 Repository Structure
