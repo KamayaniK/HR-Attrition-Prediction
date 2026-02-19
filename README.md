@@ -34,7 +34,7 @@ The objective is to identify key factors contributing to employee turnover and b
 ---
 
 ## 📈 Model Performance
-- Accuracy: XX%  ← (Replace this with your actual accuracy)
+- Accuracy: 87.41% 
 - Classification Report included
 
 ---
@@ -55,3 +55,9 @@ The objective is to identify key factors contributing to employee turnover and b
 ---
 
 ## 📂 Repository Structure
+
+---
+
+## 👩‍💻 Author
+Kamayani
+
